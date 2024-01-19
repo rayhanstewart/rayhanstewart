@@ -7,6 +7,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&link=https%3A%2F%2Fleetcode.com%2Frayhanstewart%2F">
   <img alt="Static Badge" src="https://img.shields.io/badge/Club_Page-black?logo=Github&logoColor=white&link=Howard-Codes.github.io">
 </div>
+<p id="disclaimer" align="center">Sometimes the links don't work, if so - the twitch is @babywitgun, the leetcode is rayhanstewart, and the club is <a href="howard-codes.github.io">Howard Codes</a></p>
 
 ### 🤔 Who?
 I am a CS student currently enrolled at HCC planning to transfer out next year!
